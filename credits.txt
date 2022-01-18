@@ -1,3 +1,9 @@
+Contributors:
+1) Kshitija Shivade(36029)
+2) Jondhale Komal (36034)
+3) Kazi Sayeda Umme Aiman Aijazoddin (36035)
+
+
 Backend credit:
 https://youtu.be/O5Li4MiM5_Q
 images:
